@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gamevault-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2947c068-e8fe-48c9-a5e8-7794edaa2394",
+			"database_name": "gamevault-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
